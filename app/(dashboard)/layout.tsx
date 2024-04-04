@@ -1,7 +1,7 @@
 import React from "react";
-import Sidebar from "./_components/sidebar";
 import OrgSidebar from "./_components/org-sidebar";
 import Navbar from "./_components/navbar";
+import Sidebar from "./_components/sidebar/sidebar";
 
 interface Props {
   children: React.ReactNode;
