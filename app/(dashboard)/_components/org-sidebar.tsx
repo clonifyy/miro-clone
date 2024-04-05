@@ -39,6 +39,7 @@ export default function OrgSidebar() {
             organizationSwitcherTrigger: {
               padding: "6px",
               width: "100%",
+              justifyContent: "space-between",
               borderRadius: "8px",
               border: "1px solid #E5E7EB",
               backgroundColor: "white",
